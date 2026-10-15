@@ -90,7 +90,7 @@
     <Content Include="App.ico" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="\\Mac\Home\Documents\Prioregroup\Smartcard\SmartCard.vbproj">
+    <ProjectReference Include="..\SmartCard.vbproj">
       <Project>{44137824-022a-419e-883a-e5989a37f588}</Project>
       <Name>SmartCard</Name>
     </ProjectReference>

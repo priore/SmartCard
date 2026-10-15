@@ -9,9 +9,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("SmartCard .NET Control")> 
 <Assembly: AssemblyDescription("SmartCard .NET Control 1.4")> 
-<Assembly: AssemblyCompany("Prioregroup.com")> 
+<Assembly: AssemblyCompany("Priore")> 
 <Assembly: AssemblyProduct("SmartCard.NET")> 
-<Assembly: AssemblyCopyright("Copyright (c) 2009, Danilo Priore")> 
+<Assembly: AssemblyCopyright("Copyright (c) 2009, Priore")> 
 <Assembly: AssemblyTrademark("")> 
 <Assembly: CLSCompliant(True)> 
 
